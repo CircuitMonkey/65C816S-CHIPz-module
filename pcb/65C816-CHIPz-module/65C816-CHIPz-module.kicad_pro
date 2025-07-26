@@ -601,7 +601,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "65C816-CHIPz-module.step",
       "svg": "",
       "vrml": ""
     },
